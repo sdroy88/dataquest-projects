@@ -1,2 +1,2 @@
 # dataquest-projects
-Repository for DataQuest bootcamp coding projects
+Repository for DataQuest bootcamp guided coding projects. 
