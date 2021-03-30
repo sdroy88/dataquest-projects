@@ -1,2 +1,2 @@
 # dataquest-projects
-Repository for DataQuest bootcamp guided coding projects. 
+Repository of Jupyer Notebooks for DataQuest guided coding projects. 
